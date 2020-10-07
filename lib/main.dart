@@ -14,7 +14,3 @@ class App extends StatelessWidget {
   }
 }
 
-hallo bello hjkkk
-
-kkkl
-

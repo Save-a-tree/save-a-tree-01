@@ -13,5 +13,3 @@ class App extends StatelessWidget {
     );
   }
 }
-
-hallo bello
